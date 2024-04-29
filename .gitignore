@@ -1,0 +1,3 @@
+# ignore all files stored with under node_modules
+WebScraper/node_modules
+Webscraper1/node_modules
